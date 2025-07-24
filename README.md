@@ -14,9 +14,10 @@ learn more about the core of back-end without the use of frameworks like spring.
   
 ### How to Run
   -if you're in linux you can just run <br/>
-   ```./run.sh``` <br/>
+   ``` ./run.sh ``` <br/>
   -in windows just use: <br/>
-  ```javac -cp lib/gson-2.13.1.jar -d out $(find src -name "*.java")  <br/> java -cp "out:lib/gson-2.13.1.jar" App <port>```
+  ``` javac -cp lib/gson-2.13.1.jar -d out $(find src -name "*.java") ``` <br/>
+  ``` java -cp "out:lib/gson-2.13.1.jar" App <port>```
 
 ## Project Structure
 - `App.java` — Server entry point
