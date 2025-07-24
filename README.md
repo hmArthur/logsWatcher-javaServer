@@ -11,7 +11,7 @@ learn more about the core of back-end without the use of frameworks like spring.
 ## Getting Started
 ### requisites
 - Java 11 or higher
-- 
+  
 ### How to Run
   -if you're in linux you can just run
    ``./run.sh``
